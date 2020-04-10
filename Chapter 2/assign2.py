@@ -1,0 +1,1 @@
+print("Hi this is my 2nd Assignment for Python Data Structures")
